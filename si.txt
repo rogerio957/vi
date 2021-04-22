@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV" tvg-logo=FutebolPlayHD.com	
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo=FutebolPlayHD.com
+	
